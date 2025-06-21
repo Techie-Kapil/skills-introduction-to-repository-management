@@ -20,5 +20,5 @@ instance/
 htmlcov/
 
 # Staff computer files
-.DS_Store      # For teachers with Macs
+.DS_Store
 Thumbs.db      # For teachers with Windows
